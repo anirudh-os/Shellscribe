@@ -5,16 +5,15 @@ Shellscribe is a simple yet powerful terminal-based text editor designed for qui
 ## Features
 
 - **Lightweight**: Minimalistic design for fast performance.
-- **Syntax Highlighting**: Supports syntax highlighting for various programming languages.
-- **Basic Editing Functions**: Includes essential features such as cut, copy, paste, undo, and redo.
-- **File Management**: Easily open, save, and close files.
-- **Configurable Key Bindings**: Customize key bindings to suit your workflow.
+- **Syntax Highlighting**: Supports syntax highlighting for various programming languages. [In progress]
+- **Basic Editing Functions**: Includes essential features such as cut, copy, paste, undo, and redo. [In progress]
+- **File Management**: Easily open, save, and close files. [In progress]
+- **Configurable Key Bindings**: Customize key bindings to suit your workflow. [In progress]
 - **Cross-Platform**: Works on various Unix-like operating systems.
 
 ## Requirements
 
 - GCC or any compatible C compiler
-- `ncurses` library (for terminal handling)
 
 ## Installation
 
